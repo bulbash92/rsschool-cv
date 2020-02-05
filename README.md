@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://bulbash92.github.io/rsschool-cv/cv
