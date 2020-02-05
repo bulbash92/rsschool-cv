@@ -133,7 +133,9 @@
 I passed all free HTML academy courses. One of them is the project [Barbershop](https://github.com/bulbash92/barbershop).
 
 ## Education:
-I have specialized secondary economic education. I passed all free HTML academy courses. Also I passed the [course](https://stepik.org/cert/201068) on platform Stepik with name "JavaScript for newbies". And I am passing the "Rolling Scope" course for now.
+I have specialized secondary economic education. I passed all free HTML academy courses and intensive.
+ Also I passed the [course](https://stepik.org/cert/201068) on platform Stepik with name "JavaScript for newbies".
+ And I am passing the "Rolling Scope" course for now.
 
 ## English: 
 I am learning English with a teacher for now. For now, i have an elementary English level. 
