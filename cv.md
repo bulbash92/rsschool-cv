@@ -1,4 +1,6 @@
 # Yauheni Danchanka. 
+- 27 years
+- Minks.Belarus
 
 ## Contacts: 
 - phone number - +375445535621
