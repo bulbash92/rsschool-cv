@@ -92,3 +92,8 @@ h2 {
 .title-secondary {
     margin-bottom: 20px;
 }
+
+textarea {
+    background-color: ivory;
+    font-weight: bold;
+}
