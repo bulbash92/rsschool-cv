@@ -1,11 +1,17 @@
 body {
-    background-color: #f5f5f5;
     padding: 0;
     margin: 0;
     padding: 10px;
+    background-color: #f5f5f5;
+}
+
+.wrapper {
     max-width: 1024px;
     margin-left: auto;
     margin-right: auto;
+    padding: 50px;
+    background-color: darkgrey;
+    border-radius: 7px;
 }
 
 ul {
@@ -13,6 +19,11 @@ ul {
     text-align: left;
     font-weight: bold;
     padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color:peachpuff;
 }
 
 p {
@@ -28,18 +39,20 @@ p {
 }
 
 .container {
+    width: 800px;
+    justify-content: space-between;
     display: flex;
-    justify-content: space-around;
+    align-items: center;
 }
 
 
 .avatar {
     border-radius: 10%;
+    margin-left: 110px;
 }
 
 .title {
     text-align: left;
-    margin-left: 40px;
 }
 
 h2 {
@@ -56,6 +69,10 @@ h2 {
     list-style: none;
 }
 
+.skills__list {
+    list-style: inside;
+}
+
 .description__title {
     text-align: left;
 }
@@ -70,4 +87,8 @@ h2 {
     background-color: #708090;
     border: 2px solid #fff;
     border-radius: 5px;
+}
+
+.title-secondary {
+    margin-bottom: 20px;
 }
